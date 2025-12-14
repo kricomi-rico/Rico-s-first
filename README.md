@@ -23,7 +23,7 @@ For example. you know there's a party in the next few days, and you want to desi
 
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Demo Image](demo.png)
+![Demo Image](([)](https://github.com/kricomi-rico/Rico-s-first-new-project/blob/main/cluttered-makeup-table-stockcake.webp))
 
 If you need to resize images, you have to use an HTML tag, like this:
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
