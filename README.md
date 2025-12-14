@@ -26,7 +26,11 @@ Once you upload an image to your repository, you can link link to it like this (
 ![Demo Image](cluttered-makeup-table-stockcake.webp)
 
 If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
+<img src="cluttered-makeup-table-stockcake.webp" width="400">
+<p align="center">
+   <img src="cluttered-makeup-table-stockcake.webp" width="500"><br>
+   <em>Figure 1. Example of a cluttered makeup table</em>
+</p>
 
 This is how you create code examples:
 ```
