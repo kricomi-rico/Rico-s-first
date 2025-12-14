@@ -4,26 +4,26 @@ Final project for the Building AI course
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+To those who have never had the time or opportunity to learn and use makeup methods and products suitable for them, to utilize AI for inputting and recognizing facial information from human faces, and by drawing from various online beauty Youtubers's makeup recommendations and techniques, to provide customers with suitable makeup looks, as well as compatible products and methods. 
 
 
 ## Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
+The problem I want to solve is how to enable every girl to find products and makeup looks that suit her in the shortest time and the lowest cost. Makeup is something that girls will do for relatively important occasions, so what kind of makeup look, or what products can achieve the desired makeup effect, is something that girls need to spend time searching and learning about. My wife is someone who doesn't know much about makeup, but every time i see her trying different ones, and i feel that the cosmetics she buys are not very suitable for her face, every time i see her dejectedly removing her makeup, i really want to help her find a makeup look that suits her, along with techniques and steps as well as product recommendations for her, so that she won't spend too much time and energy searching for this information. 
 
 This is how you make a list, if you need one:
-* problem 1
-* problem 2
+* problem 1 Don't know what are the products suit customer skin type
+* problem 2 Don't know which methods can help customer's makeup look better without any problems. 
 * etc.
 
 
 ## How is it used?
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+For example. you know there's a party in the next few days, and you want to design a brand new makeup style for this party, so you input the style you want, and the system already has your skin information saved ( oily skin, dry skin, large pores, etc.). The system will automatically search for makeup looks that suit your skin type and requirements. After you select a makeup look, the system will recommend makeup steps and products based on your skin type. If you don't have the products, it will show you the fastest online and offline channels to purchase them, along with prices. Another usage scenario is when you want to try a new makeup look but don't know which one suits you; the system will recommend makeup looks that suit you and are different from previous ones, based on the makeup products you own and your facial information, along with makeup steps and techniques.
 
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
+![Makeup]([https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg](https://stockcake.com/i/cluttered-makeup-table_1229998_383128))
 
 If you need to resize images, you have to use an HTML tag, like this:
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
